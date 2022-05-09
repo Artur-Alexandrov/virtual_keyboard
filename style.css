@@ -46,7 +46,7 @@
 }
 
 .keyboard__key:active {
-    background: rgba(5, 240, 21, 0.1);
+    background-color: #0202f8f9;
     
 }
 
@@ -57,6 +57,10 @@
 .keyboard__key--extra-wide {
     width: 34%;
     max-width: 500px;
+}
+
+.keypress_style {
+    background-color: aqua;
 }
 
 

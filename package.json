@@ -1,0 +1,24 @@
+{
+  "name": "virtual_keyboard",
+  "version": "1.0.0",
+  "description": "virtual_keyboard for improving DOM skills",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artur-Alexandrov/virtual_keyboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artur-Alexandrov/virtual_keyboard/issues"
+  },
+  "homepage": "https://github.com/Artur-Alexandrov/virtual_keyboard#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}
