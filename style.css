@@ -46,7 +46,7 @@
 }
 
 .keyboard__key:active {
-    background-color: #0202f8f9;
+    background-color: hsla(0, 98%, 49%, 0.976);
     
 }
 
@@ -59,8 +59,6 @@
     max-width: 500px;
 }
 
-.keypress_style {
-    background-color: aqua;
-}
+
 
 
